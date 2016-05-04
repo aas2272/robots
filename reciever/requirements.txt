@@ -1,0 +1,14 @@
+cloudpickle==0.2.1
+cymem==1.31.1
+murmurhash==0.26.3
+nltk==3.2.1
+numpy==1.11.0
+plac==0.9.1
+preshed==0.46.3
+scipy==0.17.0
+semver==2.4.1
+six==1.10.0
+spacy==0.100.6
+sputnik==0.9.3
+thinc==5.0.7
+ujson==1.35

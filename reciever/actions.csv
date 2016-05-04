@@ -1,0 +1,9 @@
+grab
+move
+let_go
+pick_up
+grab,,object,cmd,
+move,upwards,object,cmd,
+drop
+pick_up,,object,cmd,
+let_go,,,,

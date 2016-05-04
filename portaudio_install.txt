@@ -1,0 +1,14 @@
+Getting portaudio, pyaudio, speech recognition:
+
+Download portaudio from http://www.portaudio.com/download.html and save to folder portaudio in your home directory
+./configure --prefix=/home/UNI/portaudio_path
+make
+make install
+Vim ~/.pydistutils.cfg
+[build_ext]
+include_dirs=/home/UNI/portaudio_path/include/
+library_dirs=/home/UNI/portaudio_path/lib/
+:wq
+pip install --user --allow-external pyaudio --allow-unverified pyaudio pyaudio
+Pip install --user SpeechRecognition
+

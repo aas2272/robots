@@ -1,0 +1,12 @@
+drop the red brick
+yes
+yes
+
+go to the red brick
+yes
+pick up the red brick
+yes
+move the red brick up
+yes
+place the red brick
+no
